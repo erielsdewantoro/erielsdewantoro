@@ -41,9 +41,9 @@ Hello! I am Eriel, a 7th-semester Information Technology student at Universitas 
 ---
 
 ### 📜 Certifications
-- **Sertifikasi Analis Program** - BNSP (November 2025)
-- **PCAP: Programming Essentials in Python** - Cisco & OpenEDG (July 2023) 
-- **Fundamental Database MySQL** - Coding Studio (June 2024) 
+- **[Sertifikasi Analis Program - BNSP](https://drive.google.com/file/d/1i9S-mlmDZTPBTI-3QAAiL50NKZ4RvmWF/view?usp=drive_link)** (November 2025)
+- **[PCAP: Programming Essentials in Python - Cisco & OpenEDG](https://drive.google.com/file/d/1gSWkhpkuTZ10JRfRiFHbWoegejdIG8_x/view?usp=drive_link)** (July 2023)
+- **[Fundamental Database MySQL - Coding Studio](https://drive.google.com/file/d/1bmaih4EOUrpHBx26sXwjR_7GuMlNfdF6/view?usp=drive_link)** (June 2024)
 
 ---
 
