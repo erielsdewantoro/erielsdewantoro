@@ -35,8 +35,8 @@ Hello! I am Eriel, a 7th-semester Information Technology student at Universitas 
 
 | Preview | Project | Description |
 |---|---|---|
-| <img src="wta-dashboard.png" width="300"> | **WTA Tennis Match Analytics** | An end-to-end analysis of WTA match data, from wrangling in Python to an interactive dashboard in Power BI. [cite_start]Uncovered insights on player performance, upset rates, and predictability by odds.  **(Link to Repository Coming Soon!)** |
-| <img src="sala-x-mockup.png" width="300"> | **SALA-X: Hiking Registration App** | [cite_start]A mobile web-app concept designed in Figma for managing hiking registrations on Mount Salak, aiming to streamline data management and reporting for administrators.  **(Link to Repository Coming Soon!)** |
+| <img src="wta-dashboard.png" width="300"> | **WTA Tennis Match Analytics** | An end-to-end analysis of WTA match data, from wrangling in Python to an interactive dashboard in Power BI. Uncovered insights on player performance, upset rates, and predictability by odds.  **(https://github.com/erielsdewantoro/WTA-Tennis-Analysis)** |
+| <img src="sala-x-mockup.png" width="300"> | **SALA-X: Hiking Registration App** | A mobile web-app concept designed in Figma for managing hiking registrations on Mount Salak, aiming to streamline data management and reporting for administrators.  **(Link to Repository Coming Soon!)** |
 
 ---
 
