@@ -1,16 +1,53 @@
-## Hi there 👋
+# Eriel Setiawan Dewantoro
+*Aspiring Data Enthusiast | Data Science & Analytics*
 
-<!--
-**erielsdewantoro/erielsdewantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
+Hello! I am Eriel, a 7th-semester Information Technology student at Universitas Bina Sarana Informatika with a strong interest in data. My goal is to become a Data Analyst/Scientist who helps organizations make better, data-driven decisions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying at **Universitas Bina Sarana Informatika** (2022 - Present).
+- 🚀 Participating in **Dibimbing Bootcamp - Data Science & Analytics** (Mei 2025 - Present).
+- 💡 Proficient in processing, analyzing, and visualizing data to deliver valuable insights using Python, SQL, Power BI, and Tableau.
+- 🤝 Strong believer in teamwork, communication, and continuous learning. 
+
+### 🛠️ Tech Stack & Skills
+
+**Technical Skills:**
+- **Languages:** Python (Pandas, NumPy), SQL 
+- **Data Viz:** Power BI, Tableau 
+- **Machine Learning:** Supervised & Unsupervised Learning, Data Mining 
+- **Tools:** VS Code, Jupyter Notebook, Google Colab, DBeaver, MySQL
+  
+**Soft Skills:**
+- Problem Solving 
+- Quick Learner & Adaptive 
+- Team Collaboration & Communication 
+- Time Management
+  
+**Languages:**
+- **Bahasa Indonesia:** Native 
+- **English:** Professional Working Proficiency (B1)
+
+---
+
+### 📂 My Projects
+
+| Preview | Project | Description |
+|---|---|---|
+| <img src="wta-dashboard.png" width="300"> | **WTA Tennis Match Analytics** | An end-to-end analysis of WTA match data, from wrangling in Python to an interactive dashboard in Power BI. [cite_start]Uncovered insights on player performance, upset rates, and predictability by odds.  **(Link to Repository Coming Soon!)** |
+| <img src="sala-x-mockup.png" width="300"> | **SALA-X: Hiking Registration App** | [cite_start]A mobile web-app concept designed in Figma for managing hiking registrations on Mount Salak, aiming to streamline data management and reporting for administrators.  **(Link to Repository Coming Soon!)** |
+
+---
+
+### 📜 Certifications
+- **Sertifikasi Analis Program** - BNSP (November 2025)
+- **PCAP: Programming Essentials in Python** - Cisco & OpenEDG (July 2023) 
+- **Fundamental Database MySQL** - Coding Studio (June 2024) 
+
+---
+
+### 📫 Let's Connect!
+- **Email:** erieldewantoros@gmail.com 
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/)
+- **Download My Full Portfolio:** [Link to PDF Coming Soon!]
