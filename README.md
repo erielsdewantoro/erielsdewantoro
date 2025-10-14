@@ -7,7 +7,7 @@
 Hello! I am Eriel, a 7th-semester Information Technology student at Universitas Bina Sarana Informatika with a strong interest in data. My goal is to become a Data Analyst/Scientist who helps organizations make better, data-driven decisions. 
 
 - 🎓 Currently studying at **Universitas Bina Sarana Informatika** (2022 - Present).
-- 🚀 Participating in **Dibimbing Bootcamp - Data Science & Analytics** (Mei 2025 - Present).
+- 🚀 Participating in **Dibimbing.id Bootcamp - Data Science & Analytics** (Mei 2025 - Present).
 - 💡 Proficient in processing, analyzing, and visualizing data to deliver valuable insights using Python, SQL, Power BI, and Tableau.
 - 🤝 Strong believer in teamwork, communication, and continuous learning. 
 
